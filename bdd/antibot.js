@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Define the path for the JSON file to store data
-const dataFilePath = path.join(__dirname, '../xmd/antibot.json');
+const filePath = path.join(__dirname, '../xmd/antibot1.json');
 
 // Function to read data from JSON file
 function readDataFromFile() {
